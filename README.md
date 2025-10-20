@@ -1,2 +1,3 @@
 # sorting-algorithms
-For 3rd sem 
+For diploma 3rd sem <br>
+Author : Anubhab Ghosh 
